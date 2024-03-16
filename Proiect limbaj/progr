@@ -1,0 +1,66 @@
+class Masina{
+    int km;
+    int turatii;
+    string culoare;
+    int uo(int h)
+    {
+        int jh;
+    }
+    
+};
+class Persoana
+{
+    int varsta;
+    int getVarsta()
+    {
+
+    }
+};
+Masina S;
+
+string text;
+const float pi=3.14;
+int fgs(int a, int b)
+{
+
+}
+int func1()
+{
+  int ga[5];
+  int j=6;
+}
+int max(int v[], int b)
+{
+    int v[10];
+    int n;
+    
+    int max=0;
+    
+    
+}
+int main()
+{
+    Persoana Andrei;
+    Andrei.varsta=21;
+    S.km=9;
+    int k=S.km;
+    int g[11];
+    g[2]=2;
+    g[3]=7;
+    g[g[3]]=10;
+    g[g[g[3]]]=2;
+    int ds;
+    ds=g[2]+4;
+    while(true || false)
+    {
+        ds=2;
+    }
+    if(  ((ds<4 && ds>5) || ds<7+g[2]-S.km) && (true || false)) 
+    {
+        ds=6;
+    }
+    int hah[2][8];
+    Eval(ds);
+    Eval(((ds<4 && ds>5) || ds<7+g[2]-S.km) && (true || false));
+    TypeOf(ds+k);
+}

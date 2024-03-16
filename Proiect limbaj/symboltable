@@ -1,0 +1,29 @@
+
+Variables:
+domain: Masina    name: km     type: int     constant false    value: 
+domain: Masina    name: turatii     type: int     constant false    value: 
+domain: Masina    name: culoare     type: string     constant false    value: 
+domain: uo    name: jh     type: int     constant false    value: 
+domain: Persoana    name: varsta     type: int     constant false    value: 
+domain: global    name: S     type: Masina     constant false    values: 0 : 9.000000;  
+domain: global    name: text     type: string     constant false    value: 
+domain: global    name: pi     type: float     constant true    value:3.140000 
+domain: func1    name: ga     type: int     constant false    values: 
+domain: func1    name: j     type: int     constant false    value:6.000000 
+domain: max    name: v     type: int     constant false    values: 
+domain: max    name: n     type: int     constant false    value: 
+domain: max    name: max     type: int     constant false    value:0.000000 
+domain: main    name: Andrei     type: Persoana     constant false    values: 0 : 21.000000;  
+domain: main    name: k     type: int     constant false    value:9.000000 
+domain: main    name: g     type: int     constant false    values: 2 : 2.000000;  3 : 7.000000;  7 : 10.000000;  10 : 2.000000;  
+domain: main    name: ds     type: int     constant false    value:6.000000 
+domain: main    name: hah     type: int     constant false    value: 
+
+Functions:
+domain: Masina   name: uo   type: int  params: int h, 
+domain: Persoana   name: getVarsta   type: int  params: 
+domain: global   name: fgs   type: int  params: int a, int b, 
+domain: global   name: func1   type: int  params: 
+domain: global   name: max   type: int  params: int v, int b, 
+
+
