@@ -1,1 +1,1 @@
-A project that simulates some functionalities of a C compiler.
+Este o aplicatie care  simuleaza  un compilator in C ,avand anumite functionalitati ce implica semantica si sintaxa limbajului C. Acest proiect a fost scris utilizand lexer si yacc/bison.A fost realizat intr o echipa de 2 oameni.
