@@ -1,1 +1,1 @@
-Este o aplicatie care  simuleaza  un compilator in C ,avand anumite functionalitati ce implica semantica si sintaxa limbajului C. Acest proiect a fost scris utilizand lexer si yacc/bison.A fost realizat intr o echipa de 2 oameni.
+It is an application that simulates a compiler for the C programming language, having certain functionalities involving the syntax and semantics of C. This project was written using Lex and Yacc/Bison. It was developed as part of a two-person team.
